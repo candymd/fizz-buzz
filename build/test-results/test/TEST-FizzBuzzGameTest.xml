@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="FizzBuzzGameTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2021-12-16T10:25:37" hostname="UNKNOWN" time="0.085">
+  <properties/>
+  <testcase name="returnsFizzInsteadOf21()" classname="FizzBuzzGameTest" time="0.049"/>
+  <testcase name="returnsFizzInsteadOf50()" classname="FizzBuzzGameTest" time="0.002"/>
+  <testcase name="returnsOneWhenGameStarts()" classname="FizzBuzzGameTest" time="0.003"/>
+  <testcase name="returnsFizzBuzzInsteadOf15()" classname="FizzBuzzGameTest" time="0.003"/>
+  <testcase name="gameStopsAt100()" classname="FizzBuzzGameTest" time="0.004"/>
+  <testcase name="returnsFizzInsteadOfThree()" classname="FizzBuzzGameTest" time="0.003"/>
+  <testcase name="returnsAnyNumberThatIsNotFizzOrBuzz()" classname="FizzBuzzGameTest" time="0.003"/>
+  <testcase name="returnsBuzzInsteadOfFive()" classname="FizzBuzzGameTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
